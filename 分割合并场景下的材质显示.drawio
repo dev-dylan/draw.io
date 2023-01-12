@@ -1,1 +1,154 @@
-<mxfile host="app.diagrams.net" modified="2023-01-12T05:48:12.733Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.6.0" etag="KKtRVc3gAlAoQG0mf5jb" type="github"><diagram id="xYWcmxPzBBGnf-gFX9VK">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-01-12T07:33:54.828Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.6.0" etag="szysEdHtsAtdqTHFAsDV" type="github">
+  <diagram id="Edlb0GLIPgFkQnMVfdb4" name="第 1 页">
+    <mxGraphModel dx="2377" dy="1232" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="XZMTH2rrVfR54QavHA2P-1" value="分隔" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="90" y="200" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XZMTH2rrVfR54QavHA2P-2" value="合并" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="90" y="626.25" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XZMTH2rrVfR54QavHA2P-3" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%E6%88%BF%E9%97%B4%202%20%E9%9D%A2%E7%A7%AF%E6%9B%B4%E5%A4%A7%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3Bsketch%3D1%3BfillColor%3D%23dae8fc%3BstrokeColor%3D%236c8ebf%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22370%22%20y%3D%22720%22%20width%3D%22200%22%20height%3D%2240%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;sketch=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="150" y="155" width="20" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="XZMTH2rrVfR54QavHA2P-6" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;sketch=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="150" y="472.5" width="20" height="337.5" as="geometry" />
+        </mxCell>
+        <mxCell id="XZMTH2rrVfR54QavHA2P-8" value="房间 A 已设置自定义材质" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="180" y="120" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XZMTH2rrVfR54QavHA2P-9" value="房间 B 未设置自定义材质" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="180" y="270" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XZMTH2rrVfR54QavHA2P-10" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;sketch=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="340" y="79" width="20" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="XZMTH2rrVfR54QavHA2P-13" value="分割后房间 A1 使用自定义材质" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="370" y="79" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XZMTH2rrVfR54QavHA2P-14" value="分割后房间 A2 使用自定义材质" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="370" y="144" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XZMTH2rrVfR54QavHA2P-15" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;sketch=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="340" y="230" width="20" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="XZMTH2rrVfR54QavHA2P-16" value="分割后房间 B1 使用材质地图对应区域材质&lt;font color=&quot;#ff8000&quot;&gt;（和 B2 材质可能不同）&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="370" y="235" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XZMTH2rrVfR54QavHA2P-17" value="分割后房间 B2 使用材质地图对应区域材质&lt;font color=&quot;#ff8000&quot;&gt;（和 B1 材质可能不同）&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="370" y="300" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XZMTH2rrVfR54QavHA2P-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#FF8000;" edge="1" parent="1" source="XZMTH2rrVfR54QavHA2P-19" target="XZMTH2rrVfR54QavHA2P-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XZMTH2rrVfR54QavHA2P-19" value="房间 1 和房间 2 都设置了自定义材质&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="180" y="460" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="XZMTH2rrVfR54QavHA2P-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FF8000;" edge="1" parent="1" source="XZMTH2rrVfR54QavHA2P-20" target="XZMTH2rrVfR54QavHA2P-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XZMTH2rrVfR54QavHA2P-20" value="房间 1 和房间 2 都未设置自定义材质" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="180" y="540" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="XZMTH2rrVfR54QavHA2P-21" value="房间 1 设置了自定义材质&lt;br&gt;房间 2 未设置自定义材质" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="180" y="775" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="XZMTH2rrVfR54QavHA2P-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontColor=#FF8000;" edge="1" parent="1" source="XZMTH2rrVfR54QavHA2P-22" target="XZMTH2rrVfR54QavHA2P-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XZMTH2rrVfR54QavHA2P-22" value="合并后房间 1 自定义材质以房间面积更大的为准" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="370" y="465" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XZMTH2rrVfR54QavHA2P-24" value="更新材质 mapping 中房间 1材质&lt;br&gt;&amp;nbsp;删除 mapping 中房间2 材质" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="590" y="465" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XZMTH2rrVfR54QavHA2P-26" value="合并房间后，计算新房间区域材质地图中不同材质占比，占比更大的为准" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="370" y="545" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XZMTH2rrVfR54QavHA2P-34" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;sketch=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="330" y="636.25" width="20" height="327.5" as="geometry" />
+        </mxCell>
+        <mxCell id="XZMTH2rrVfR54QavHA2P-35" value="房间1 面积更大" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="370" y="640" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XZMTH2rrVfR54QavHA2P-38" value="房间 2 面积更大" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="370" y="780" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XZMTH2rrVfR54QavHA2P-39" value="房间面积相同" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="370" y="920" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XZMTH2rrVfR54QavHA2P-41" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%E6%88%BF%E9%97%B4%202%20%E9%9D%A2%E7%A7%AF%E6%9B%B4%E5%A4%A7%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3Bsketch%3D1%3BfillColor%3D%23dae8fc%3BstrokeColor%3D%236c8ebf%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22370%22%20y%3D%22720%22%20width%3D%22200%22%20height%3D%2240%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;sketch=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="570" y="600" width="20" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="XZMTH2rrVfR54QavHA2P-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#FF8000;" edge="1" parent="1" source="XZMTH2rrVfR54QavHA2P-43" target="XZMTH2rrVfR54QavHA2P-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XZMTH2rrVfR54QavHA2P-43" value="新房间索引为房间1" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="590" y="610" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XZMTH2rrVfR54QavHA2P-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#FF8000;" edge="1" parent="1" source="XZMTH2rrVfR54QavHA2P-44" target="XZMTH2rrVfR54QavHA2P-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XZMTH2rrVfR54QavHA2P-44" value="新房间索引为房间2" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="590" y="670" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XZMTH2rrVfR54QavHA2P-46" value="更新 mapping 中房间 1 材质&lt;br&gt;删除 mapping中房间 2 材质" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="820" y="610" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XZMTH2rrVfR54QavHA2P-48" value="更新 mapping 中房间 2 材质&lt;br&gt;删除 mapping中房间 1 材质" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="820" y="670" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XZMTH2rrVfR54QavHA2P-53" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%E6%88%BF%E9%97%B4%202%20%E9%9D%A2%E7%A7%AF%E6%9B%B4%E5%A4%A7%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3Bsketch%3D1%3BfillColor%3D%23dae8fc%3BstrokeColor%3D%236c8ebf%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22370%22%20y%3D%22720%22%20width%3D%22200%22%20height%3D%2240%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;sketch=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="570" y="740" width="20" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="XZMTH2rrVfR54QavHA2P-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#FF8000;" edge="1" parent="1" source="XZMTH2rrVfR54QavHA2P-55" target="XZMTH2rrVfR54QavHA2P-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XZMTH2rrVfR54QavHA2P-55" value="新房间索引为房间1" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="590" y="750" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XZMTH2rrVfR54QavHA2P-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#FF8000;" edge="1" parent="1" source="XZMTH2rrVfR54QavHA2P-57" target="XZMTH2rrVfR54QavHA2P-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XZMTH2rrVfR54QavHA2P-57" value="新房间索引为房间2" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="590" y="810" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XZMTH2rrVfR54QavHA2P-58" value="删除 mapping 中房间 1 材质&lt;br&gt;删除 mapping中房间 2 材质" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="820" y="750" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XZMTH2rrVfR54QavHA2P-59" value="删除 mapping 中房间 1 材质&lt;br&gt;删除 mapping中房间 2 材质" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="820" y="810" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XZMTH2rrVfR54QavHA2P-60" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%E6%88%BF%E9%97%B4%202%20%E9%9D%A2%E7%A7%AF%E6%9B%B4%E5%A4%A7%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3Bsketch%3D1%3BfillColor%3D%23dae8fc%3BstrokeColor%3D%236c8ebf%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22370%22%20y%3D%22720%22%20width%3D%22200%22%20height%3D%2240%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;sketch=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="570" y="880" width="20" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="XZMTH2rrVfR54QavHA2P-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#FF8000;" edge="1" parent="1" source="XZMTH2rrVfR54QavHA2P-62" target="XZMTH2rrVfR54QavHA2P-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XZMTH2rrVfR54QavHA2P-62" value="新房间索引为房间1" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="590" y="890" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XZMTH2rrVfR54QavHA2P-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#FF8000;" edge="1" parent="1" source="XZMTH2rrVfR54QavHA2P-64" target="XZMTH2rrVfR54QavHA2P-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XZMTH2rrVfR54QavHA2P-64" value="新房间索引为房间2" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="590" y="950" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XZMTH2rrVfR54QavHA2P-65" value="更新 mapping 中房间 1 材质&lt;font color=&quot;#ff8000&quot;&gt;为瓷砖&lt;/font&gt;&lt;br&gt;删除 mapping中房间 2 材质" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="820" y="890" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XZMTH2rrVfR54QavHA2P-66" value="更新 mapping 中房间 2 材质&lt;font color=&quot;#ff8000&quot;&gt;为瓷砖&lt;/font&gt;&lt;br&gt;删除 mapping中房间 1 材质" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="820" y="950" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XZMTH2rrVfR54QavHA2P-67" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;sketch=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="740" width="20" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="XZMTH2rrVfR54QavHA2P-68" value="合并房间后，计算新房间区域材质地图中不同材质占比，占比更大的为准" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="780" width="200" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
