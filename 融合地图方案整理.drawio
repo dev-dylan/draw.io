@@ -1,428 +1,496 @@
-<mxfile host="app.diagrams.net" modified="2023-03-20T08:27:06.229Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="E2yks7rq2OtpfvRBkvkz" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-29T07:23:15.236Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="QGGSdgzIvvCXHKunY-0s" version="21.0.8" type="github">
   <diagram name="第 1 页" id="EZ3omXRqI6BgTh0jrViY">
     <mxGraphModel dx="1434" dy="827" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="BJKhWO87G6aF2TpkqISf-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="BJKhWO87G6aF2TpkqISf-1" target="BJKhWO87G6aF2TpkqISf-2">
+        <mxCell id="BJKhWO87G6aF2TpkqISf-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="BJKhWO87G6aF2TpkqISf-1" target="BJKhWO87G6aF2TpkqISf-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BJKhWO87G6aF2TpkqISf-1" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BJKhWO87G6aF2TpkqISf-1" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="60" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="BJKhWO87G6aF2TpkqISf-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="BJKhWO87G6aF2TpkqISf-2" target="BJKhWO87G6aF2TpkqISf-17">
+        <mxCell id="BJKhWO87G6aF2TpkqISf-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="BJKhWO87G6aF2TpkqISf-2" target="BJKhWO87G6aF2TpkqISf-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BJKhWO87G6aF2TpkqISf-2" value="获取分区(融合)地图" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BJKhWO87G6aF2TpkqISf-2" value="获取分区(融合)地图" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="200" y="60" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="BJKhWO87G6aF2TpkqISf-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="BJKhWO87G6aF2TpkqISf-17" target="BJKhWO87G6aF2TpkqISf-19">
+        <mxCell id="BJKhWO87G6aF2TpkqISf-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="BJKhWO87G6aF2TpkqISf-17" target="BJKhWO87G6aF2TpkqISf-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BJKhWO87G6aF2TpkqISf-17" value="获取分区索引" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BJKhWO87G6aF2TpkqISf-17" value="获取分区索引" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="360" y="60" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="BJKhWO87G6aF2TpkqISf-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="BJKhWO87G6aF2TpkqISf-19" target="BJKhWO87G6aF2TpkqISf-21">
+        <mxCell id="BJKhWO87G6aF2TpkqISf-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="BJKhWO87G6aF2TpkqISf-19" target="BJKhWO87G6aF2TpkqISf-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BJKhWO87G6aF2TpkqISf-19" value="获取分区栅格轮廓，并保存" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BJKhWO87G6aF2TpkqISf-19" value="获取分区栅格轮廓，并保存" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="520" y="60" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="BJKhWO87G6aF2TpkqISf-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BJKhWO87G6aF2TpkqISf-21" target="BJKhWO87G6aF2TpkqISf-23">
+        <mxCell id="BJKhWO87G6aF2TpkqISf-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="BJKhWO87G6aF2TpkqISf-21" target="BJKhWO87G6aF2TpkqISf-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BJKhWO87G6aF2TpkqISf-21" value="根据材质地图获取分区材质" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BJKhWO87G6aF2TpkqISf-21" value="根据材质地图获取分区材质" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="680" y="60" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="BJKhWO87G6aF2TpkqISf-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BJKhWO87G6aF2TpkqISf-23" target="BJKhWO87G6aF2TpkqISf-24">
+        <mxCell id="BJKhWO87G6aF2TpkqISf-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="BJKhWO87G6aF2TpkqISf-23" target="BJKhWO87G6aF2TpkqISf-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BJKhWO87G6aF2TpkqISf-23" value="获取分区中点栅格坐标，并转换成物理坐标" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BJKhWO87G6aF2TpkqISf-23" value="获取分区中点栅格坐标，并转换成物理坐标" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="680" y="160" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="BJKhWO87G6aF2TpkqISf-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BJKhWO87G6aF2TpkqISf-24" target="BJKhWO87G6aF2TpkqISf-31">
+        <mxCell id="BJKhWO87G6aF2TpkqISf-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="BJKhWO87G6aF2TpkqISf-24" target="BJKhWO87G6aF2TpkqISf-31" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BJKhWO87G6aF2TpkqISf-24" value="获取分区中垂直高度" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BJKhWO87G6aF2TpkqISf-24" value="获取分区中垂直高度" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="520" y="160" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="BJKhWO87G6aF2TpkqISf-30" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BJKhWO87G6aF2TpkqISf-30" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="160" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="BJKhWO87G6aF2TpkqISf-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BJKhWO87G6aF2TpkqISf-31" target="BJKhWO87G6aF2TpkqISf-32">
+        <mxCell id="BJKhWO87G6aF2TpkqISf-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="BJKhWO87G6aF2TpkqISf-31" target="BJKhWO87G6aF2TpkqISf-32" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BJKhWO87G6aF2TpkqISf-31" value="计算与 MapView 的 Ratio" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BJKhWO87G6aF2TpkqISf-31" value="计算与 MapView 的 Ratio" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="360" y="160" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="BJKhWO87G6aF2TpkqISf-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BJKhWO87G6aF2TpkqISf-32" target="BJKhWO87G6aF2TpkqISf-30">
+        <mxCell id="BJKhWO87G6aF2TpkqISf-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="BJKhWO87G6aF2TpkqISf-32" target="BJKhWO87G6aF2TpkqISf-30" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BJKhWO87G6aF2TpkqISf-32" value="给所有索引着色，生成图片" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BJKhWO87G6aF2TpkqISf-32" value="给所有索引着色，生成图片" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="200" y="160" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="BJKhWO87G6aF2TpkqISf-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="BJKhWO87G6aF2TpkqISf-42" target="BJKhWO87G6aF2TpkqISf-44">
+        <mxCell id="BJKhWO87G6aF2TpkqISf-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="BJKhWO87G6aF2TpkqISf-42" target="BJKhWO87G6aF2TpkqISf-44" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BJKhWO87G6aF2TpkqISf-42" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BJKhWO87G6aF2TpkqISf-42" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="320" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="BJKhWO87G6aF2TpkqISf-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="BJKhWO87G6aF2TpkqISf-44" target="BJKhWO87G6aF2TpkqISf-46">
+        <mxCell id="BJKhWO87G6aF2TpkqISf-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="BJKhWO87G6aF2TpkqISf-44" target="BJKhWO87G6aF2TpkqISf-46" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BJKhWO87G6aF2TpkqISf-44" value="获取分区和家具地图" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BJKhWO87G6aF2TpkqISf-44" value="获取分区和家具地图" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="200" y="320" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="BJKhWO87G6aF2TpkqISf-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="BJKhWO87G6aF2TpkqISf-46" target="BJKhWO87G6aF2TpkqISf-48">
+        <mxCell id="BJKhWO87G6aF2TpkqISf-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="BJKhWO87G6aF2TpkqISf-46" target="BJKhWO87G6aF2TpkqISf-48" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BJKhWO87G6aF2TpkqISf-46" value="获取家具栅格轮廓" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BJKhWO87G6aF2TpkqISf-46" value="获取家具栅格轮廓" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="360" y="320" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="BJKhWO87G6aF2TpkqISf-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="BJKhWO87G6aF2TpkqISf-48" target="BJKhWO87G6aF2TpkqISf-50">
+        <mxCell id="BJKhWO87G6aF2TpkqISf-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="BJKhWO87G6aF2TpkqISf-48" target="BJKhWO87G6aF2TpkqISf-50" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BJKhWO87G6aF2TpkqISf-48" value="获取家具栅格中点坐标" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BJKhWO87G6aF2TpkqISf-48" value="获取家具栅格中点坐标" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="520" y="320" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="BJKhWO87G6aF2TpkqISf-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BJKhWO87G6aF2TpkqISf-50" target="BJKhWO87G6aF2TpkqISf-52">
+        <mxCell id="BJKhWO87G6aF2TpkqISf-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="BJKhWO87G6aF2TpkqISf-50" target="BJKhWO87G6aF2TpkqISf-52" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BJKhWO87G6aF2TpkqISf-50" value="获取家具栅格尺寸" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BJKhWO87G6aF2TpkqISf-50" value="获取家具栅格尺寸" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="680" y="320" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="BJKhWO87G6aF2TpkqISf-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BJKhWO87G6aF2TpkqISf-52" target="BJKhWO87G6aF2TpkqISf-54">
+        <mxCell id="BJKhWO87G6aF2TpkqISf-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="BJKhWO87G6aF2TpkqISf-52" target="BJKhWO87G6aF2TpkqISf-54" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BJKhWO87G6aF2TpkqISf-52" value="根据家具尺寸范围，调整家具大小" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BJKhWO87G6aF2TpkqISf-52" value="根据家具尺寸范围，调整家具大小" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="680" y="420" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="BJKhWO87G6aF2TpkqISf-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BJKhWO87G6aF2TpkqISf-54" target="BJKhWO87G6aF2TpkqISf-57">
+        <mxCell id="BJKhWO87G6aF2TpkqISf-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="BJKhWO87G6aF2TpkqISf-54" target="BJKhWO87G6aF2TpkqISf-57" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BJKhWO87G6aF2TpkqISf-54" value="根据分区墙体信息，计算家具移动后坐标" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BJKhWO87G6aF2TpkqISf-54" value="根据分区墙体信息，计算家具移动后坐标" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="520" y="420" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="BJKhWO87G6aF2TpkqISf-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BJKhWO87G6aF2TpkqISf-55" target="BJKhWO87G6aF2TpkqISf-60">
+        <mxCell id="BJKhWO87G6aF2TpkqISf-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="BJKhWO87G6aF2TpkqISf-55" target="BJKhWO87G6aF2TpkqISf-60" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BJKhWO87G6aF2TpkqISf-55" value="根据当前地图原点物理值坐标，计算家具栅格中点和大小" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BJKhWO87G6aF2TpkqISf-55" value="根据融合地图原点物理值坐标，计算家具栅格中点和大小" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="420" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="BJKhWO87G6aF2TpkqISf-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BJKhWO87G6aF2TpkqISf-57" target="BJKhWO87G6aF2TpkqISf-59">
+        <mxCell id="BJKhWO87G6aF2TpkqISf-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="BJKhWO87G6aF2TpkqISf-57" target="BJKhWO87G6aF2TpkqISf-59" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BJKhWO87G6aF2TpkqISf-57" value="根据分区墙体信息，计算家具朝向" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BJKhWO87G6aF2TpkqISf-57" value="根据分区墙体信息，计算家具朝向" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="360" y="420" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="BJKhWO87G6aF2TpkqISf-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BJKhWO87G6aF2TpkqISf-59" target="BJKhWO87G6aF2TpkqISf-55">
+        <mxCell id="BJKhWO87G6aF2TpkqISf-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="BJKhWO87G6aF2TpkqISf-59" target="BJKhWO87G6aF2TpkqISf-55" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BJKhWO87G6aF2TpkqISf-59" value="将中心坐标和尺寸调整为物理值" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BJKhWO87G6aF2TpkqISf-59" value="将中心坐标和尺寸调整为物理值" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="200" y="420" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="BJKhWO87G6aF2TpkqISf-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="BJKhWO87G6aF2TpkqISf-60" target="BJKhWO87G6aF2TpkqISf-62">
+        <mxCell id="BJKhWO87G6aF2TpkqISf-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="BJKhWO87G6aF2TpkqISf-60" target="BJKhWO87G6aF2TpkqISf-62" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BJKhWO87G6aF2TpkqISf-60" value="计算与 MapView 的 Ratio" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BJKhWO87G6aF2TpkqISf-60" value="计算与 MapView 的 Ratio" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="520" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="BJKhWO87G6aF2TpkqISf-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BJKhWO87G6aF2TpkqISf-62" target="BJKhWO87G6aF2TpkqISf-64">
+        <mxCell id="BJKhWO87G6aF2TpkqISf-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="BJKhWO87G6aF2TpkqISf-62" target="BJKhWO87G6aF2TpkqISf-64" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BJKhWO87G6aF2TpkqISf-62" value="添加/调整所有家具位置和大小" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BJKhWO87G6aF2TpkqISf-62" value="添加/调整所有家具位置和大小" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="200" y="520" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="BJKhWO87G6aF2TpkqISf-64" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BJKhWO87G6aF2TpkqISf-64" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="360" y="520" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="BJKhWO87G6aF2TpkqISf-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="BJKhWO87G6aF2TpkqISf-67" target="BJKhWO87G6aF2TpkqISf-69">
+        <mxCell id="BJKhWO87G6aF2TpkqISf-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="BJKhWO87G6aF2TpkqISf-95" target="BJKhWO87G6aF2TpkqISf-97" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BJKhWO87G6aF2TpkqISf-67" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="620" width="120" height="50" as="geometry" />
+        <mxCell id="BJKhWO87G6aF2TpkqISf-95" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="856" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="BJKhWO87G6aF2TpkqISf-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="BJKhWO87G6aF2TpkqISf-69" target="BJKhWO87G6aF2TpkqISf-71">
+        <mxCell id="BJKhWO87G6aF2TpkqISf-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="BJKhWO87G6aF2TpkqISf-97" target="BJKhWO87G6aF2TpkqISf-99" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BJKhWO87G6aF2TpkqISf-69" value="获取分区房间材质" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="620" width="120" height="50" as="geometry" />
+        <mxCell id="BJKhWO87G6aF2TpkqISf-97" value="获取机器人栅格坐标" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="200" y="856" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="BJKhWO87G6aF2TpkqISf-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="BJKhWO87G6aF2TpkqISf-71" target="BJKhWO87G6aF2TpkqISf-73">
+        <mxCell id="BJKhWO87G6aF2TpkqISf-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="BJKhWO87G6aF2TpkqISf-99" target="BJKhWO87G6aF2TpkqISf-101" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BJKhWO87G6aF2TpkqISf-71" value="基于分区地图绘制材质信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="620" width="120" height="50" as="geometry" />
+        <mxCell id="BJKhWO87G6aF2TpkqISf-99" value="获取当前地图" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="856" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="BJKhWO87G6aF2TpkqISf-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="BJKhWO87G6aF2TpkqISf-73" target="BJKhWO87G6aF2TpkqISf-75">
+        <mxCell id="BJKhWO87G6aF2TpkqISf-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="BJKhWO87G6aF2TpkqISf-101" target="BJKhWO87G6aF2TpkqISf-103" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BJKhWO87G6aF2TpkqISf-73" value="展示分区地图时材质和分区大小相同" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="620" width="120" height="50" as="geometry" />
+        <mxCell id="BJKhWO87G6aF2TpkqISf-101" value="计算与 MapView 的 Ratio" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="520" y="856" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="BJKhWO87G6aF2TpkqISf-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BJKhWO87G6aF2TpkqISf-75" target="BJKhWO87G6aF2TpkqISf-77">
+        <mxCell id="BJKhWO87G6aF2TpkqISf-103" value="计算机器人MapView 坐标" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="680" y="856" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BJKhWO87G6aF2TpkqISf-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="BJKhWO87G6aF2TpkqISf-117" target="BJKhWO87G6aF2TpkqISf-119" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BJKhWO87G6aF2TpkqISf-75" value="展示融合地图时，调整材质左上偏移坐标" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="680" y="620" width="120" height="50" as="geometry" />
+        <mxCell id="BJKhWO87G6aF2TpkqISf-117" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="976" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="BJKhWO87G6aF2TpkqISf-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BJKhWO87G6aF2TpkqISf-77" target="BJKhWO87G6aF2TpkqISf-79">
+        <mxCell id="BJKhWO87G6aF2TpkqISf-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="BJKhWO87G6aF2TpkqISf-119" target="BJKhWO87G6aF2TpkqISf-121" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BJKhWO87G6aF2TpkqISf-77" value="根据原始地图(左下坐标系)获取地图偏移值" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="840" y="720" width="120" height="50" as="geometry" />
+        <mxCell id="BJKhWO87G6aF2TpkqISf-119" value="获取基站物理坐标" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="200" y="976" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="BJKhWO87G6aF2TpkqISf-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BJKhWO87G6aF2TpkqISf-79" target="BJKhWO87G6aF2TpkqISf-83">
+        <mxCell id="BJKhWO87G6aF2TpkqISf-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="BJKhWO87G6aF2TpkqISf-121" target="BJKhWO87G6aF2TpkqISf-123" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BJKhWO87G6aF2TpkqISf-79" value="转换偏移值为左上坐标系(mapHeight - y 值)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="680" y="720" width="120" height="50" as="geometry" />
+        <mxCell id="BJKhWO87G6aF2TpkqISf-121" value="获取当前地图基准点坐标" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="976" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="BJKhWO87G6aF2TpkqISf-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BJKhWO87G6aF2TpkqISf-81" target="BJKhWO87G6aF2TpkqISf-91">
+        <mxCell id="BJKhWO87G6aF2TpkqISf-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="BJKhWO87G6aF2TpkqISf-123" target="BJKhWO87G6aF2TpkqISf-124" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BJKhWO87G6aF2TpkqISf-81" value="根据 Ratio 调整材质图片的左上坐标" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="720" width="120" height="50" as="geometry" />
+        <mxCell id="BJKhWO87G6aF2TpkqISf-123" value="计算基站基于当前地图的栅格坐标" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="520" y="976" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="BJKhWO87G6aF2TpkqISf-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BJKhWO87G6aF2TpkqISf-83" target="BJKhWO87G6aF2TpkqISf-85">
+        <mxCell id="BJKhWO87G6aF2TpkqISf-126" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="BJKhWO87G6aF2TpkqISf-124" target="BJKhWO87G6aF2TpkqISf-125" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BJKhWO87G6aF2TpkqISf-83" value="计算与 MapView 的 Ratio" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="720" width="120" height="50" as="geometry" />
+        <mxCell id="BJKhWO87G6aF2TpkqISf-124" value="计算与 MapView 的 Ratio" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="680" y="976" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="BJKhWO87G6aF2TpkqISf-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BJKhWO87G6aF2TpkqISf-85" target="BJKhWO87G6aF2TpkqISf-81">
+        <mxCell id="BJKhWO87G6aF2TpkqISf-125" value="计算基站MapView 坐标" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="840" y="976" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BJKhWO87G6aF2TpkqISf-127" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="BJKhWO87G6aF2TpkqISf-128" target="BJKhWO87G6aF2TpkqISf-130" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BJKhWO87G6aF2TpkqISf-85" value="根据 Ratio 调整材质图片的大小" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="720" width="120" height="50" as="geometry" />
+        <mxCell id="BJKhWO87G6aF2TpkqISf-128" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="1086" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="BJKhWO87G6aF2TpkqISf-91" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="720" width="120" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="BJKhWO87G6aF2TpkqISf-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="BJKhWO87G6aF2TpkqISf-95" target="BJKhWO87G6aF2TpkqISf-97">
+        <mxCell id="BJKhWO87G6aF2TpkqISf-129" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="BJKhWO87G6aF2TpkqISf-130" target="BJKhWO87G6aF2TpkqISf-132" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BJKhWO87G6aF2TpkqISf-95" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="840" width="120" height="50" as="geometry" />
+        <mxCell id="BJKhWO87G6aF2TpkqISf-130" value="获取清洁路径物理坐标" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="200" y="1086" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="BJKhWO87G6aF2TpkqISf-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="BJKhWO87G6aF2TpkqISf-97" target="BJKhWO87G6aF2TpkqISf-99">
+        <mxCell id="BJKhWO87G6aF2TpkqISf-131" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="BJKhWO87G6aF2TpkqISf-132" target="BJKhWO87G6aF2TpkqISf-134" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BJKhWO87G6aF2TpkqISf-97" value="获取机器人栅格坐标" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="840" width="120" height="50" as="geometry" />
+        <mxCell id="BJKhWO87G6aF2TpkqISf-132" value="获取当前地图基准点坐标" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="1086" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="BJKhWO87G6aF2TpkqISf-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="BJKhWO87G6aF2TpkqISf-99" target="BJKhWO87G6aF2TpkqISf-101">
+        <mxCell id="BJKhWO87G6aF2TpkqISf-133" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="BJKhWO87G6aF2TpkqISf-134" target="BJKhWO87G6aF2TpkqISf-136" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BJKhWO87G6aF2TpkqISf-99" value="获取当前地图" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="840" width="120" height="50" as="geometry" />
+        <mxCell id="BJKhWO87G6aF2TpkqISf-134" value="计算路径基于当前地图的栅格坐标" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="520" y="1086" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="BJKhWO87G6aF2TpkqISf-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="BJKhWO87G6aF2TpkqISf-101" target="BJKhWO87G6aF2TpkqISf-103">
+        <mxCell id="BJKhWO87G6aF2TpkqISf-149" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="BJKhWO87G6aF2TpkqISf-136" target="BJKhWO87G6aF2TpkqISf-148" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BJKhWO87G6aF2TpkqISf-101" value="计算与 MapView 的 Ratio" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="840" width="120" height="50" as="geometry" />
+        <mxCell id="BJKhWO87G6aF2TpkqISf-136" value="计算与 MapView 的 Ratio" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="680" y="1086" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="BJKhWO87G6aF2TpkqISf-103" value="计算机器人MapView 坐标" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="680" y="840" width="120" height="50" as="geometry" />
+        <mxCell id="BJKhWO87G6aF2TpkqISf-148" value="计算基站MapView 坐标" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="840" y="1086" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="BJKhWO87G6aF2TpkqISf-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="BJKhWO87G6aF2TpkqISf-117" target="BJKhWO87G6aF2TpkqISf-119">
+        <mxCell id="BJKhWO87G6aF2TpkqISf-150" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="BJKhWO87G6aF2TpkqISf-151" target="BJKhWO87G6aF2TpkqISf-153" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BJKhWO87G6aF2TpkqISf-117" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="960" width="120" height="50" as="geometry" />
+        <mxCell id="BJKhWO87G6aF2TpkqISf-151" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="1206" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="BJKhWO87G6aF2TpkqISf-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="BJKhWO87G6aF2TpkqISf-119" target="BJKhWO87G6aF2TpkqISf-121">
+        <mxCell id="BJKhWO87G6aF2TpkqISf-152" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="BJKhWO87G6aF2TpkqISf-153" target="BJKhWO87G6aF2TpkqISf-155" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BJKhWO87G6aF2TpkqISf-119" value="获取基站物理坐标" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="960" width="120" height="50" as="geometry" />
+        <mxCell id="BJKhWO87G6aF2TpkqISf-153" value="获取临时和障碍物地图" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="200" y="1206" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="BJKhWO87G6aF2TpkqISf-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="BJKhWO87G6aF2TpkqISf-121" target="BJKhWO87G6aF2TpkqISf-123">
+        <mxCell id="BJKhWO87G6aF2TpkqISf-154" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="BJKhWO87G6aF2TpkqISf-155" target="BJKhWO87G6aF2TpkqISf-157" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BJKhWO87G6aF2TpkqISf-121" value="获取当前地图基准点坐标" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="960" width="120" height="50" as="geometry" />
+        <mxCell id="BJKhWO87G6aF2TpkqISf-155" value="获取障碍物栅格轮廓" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="1206" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="BJKhWO87G6aF2TpkqISf-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="BJKhWO87G6aF2TpkqISf-123" target="BJKhWO87G6aF2TpkqISf-124">
+        <mxCell id="BJKhWO87G6aF2TpkqISf-156" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="BJKhWO87G6aF2TpkqISf-157" target="BJKhWO87G6aF2TpkqISf-159" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BJKhWO87G6aF2TpkqISf-123" value="计算基站基于当前地图的栅格坐标" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="960" width="120" height="50" as="geometry" />
+        <mxCell id="BJKhWO87G6aF2TpkqISf-157" value="获取障碍物栅格中点坐标" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="521" y="1206" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="BJKhWO87G6aF2TpkqISf-126" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="BJKhWO87G6aF2TpkqISf-124" target="BJKhWO87G6aF2TpkqISf-125">
+        <mxCell id="BJKhWO87G6aF2TpkqISf-158" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="BJKhWO87G6aF2TpkqISf-159" target="BJKhWO87G6aF2TpkqISf-161" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BJKhWO87G6aF2TpkqISf-124" value="计算与 MapView 的 Ratio" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="680" y="960" width="120" height="50" as="geometry" />
+        <mxCell id="BJKhWO87G6aF2TpkqISf-159" value="获取分区墙体信息，计算障碍物是否超出墙体" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="681" y="1206" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="BJKhWO87G6aF2TpkqISf-125" value="计算基站MapView 坐标" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="840" y="960" width="120" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="BJKhWO87G6aF2TpkqISf-127" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="BJKhWO87G6aF2TpkqISf-128" target="BJKhWO87G6aF2TpkqISf-130">
+        <mxCell id="BJKhWO87G6aF2TpkqISf-160" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="BJKhWO87G6aF2TpkqISf-161" target="BJKhWO87G6aF2TpkqISf-163" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BJKhWO87G6aF2TpkqISf-128" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="1070" width="120" height="50" as="geometry" />
+        <mxCell id="BJKhWO87G6aF2TpkqISf-161" value="超出墙体4个栅格点，直接忽略" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="681" y="1306" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="BJKhWO87G6aF2TpkqISf-129" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="BJKhWO87G6aF2TpkqISf-130" target="BJKhWO87G6aF2TpkqISf-132">
+        <mxCell id="BJKhWO87G6aF2TpkqISf-162" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="BJKhWO87G6aF2TpkqISf-163" target="BJKhWO87G6aF2TpkqISf-167" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BJKhWO87G6aF2TpkqISf-130" value="获取清洁路径物理坐标" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="1070" width="120" height="50" as="geometry" />
+        <mxCell id="BJKhWO87G6aF2TpkqISf-163" value="未超出墙体4个栅格点，移动到墙内" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="521" y="1306" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="BJKhWO87G6aF2TpkqISf-131" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="BJKhWO87G6aF2TpkqISf-132" target="BJKhWO87G6aF2TpkqISf-134">
+        <mxCell id="BJKhWO87G6aF2TpkqISf-165" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="1306" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BJKhWO87G6aF2TpkqISf-166" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="BJKhWO87G6aF2TpkqISf-167" target="BJKhWO87G6aF2TpkqISf-169" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BJKhWO87G6aF2TpkqISf-132" value="获取当前地图基准点坐标" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="1070" width="120" height="50" as="geometry" />
+        <mxCell id="BJKhWO87G6aF2TpkqISf-167" value="计算与 MapView 的 Ratio" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="1306" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="BJKhWO87G6aF2TpkqISf-133" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="BJKhWO87G6aF2TpkqISf-134" target="BJKhWO87G6aF2TpkqISf-136">
+        <mxCell id="BJKhWO87G6aF2TpkqISf-168" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="BJKhWO87G6aF2TpkqISf-169" target="BJKhWO87G6aF2TpkqISf-165" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BJKhWO87G6aF2TpkqISf-134" value="计算路径基于当前地图的栅格坐标" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="1070" width="120" height="50" as="geometry" />
+        <mxCell id="BJKhWO87G6aF2TpkqISf-169" value="计算障碍物在MapView 坐标" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="200" y="1306" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="BJKhWO87G6aF2TpkqISf-149" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BJKhWO87G6aF2TpkqISf-136" target="BJKhWO87G6aF2TpkqISf-148">
+        <mxCell id="BJKhWO87G6aF2TpkqISf-176" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="BJKhWO87G6aF2TpkqISf-177" target="BJKhWO87G6aF2TpkqISf-179" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BJKhWO87G6aF2TpkqISf-136" value="计算与 MapView 的 Ratio" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="680" y="1070" width="120" height="50" as="geometry" />
+        <mxCell id="BJKhWO87G6aF2TpkqISf-177" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="1456" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="BJKhWO87G6aF2TpkqISf-148" value="计算基站MapView 坐标" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="840" y="1070" width="120" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="BJKhWO87G6aF2TpkqISf-150" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="BJKhWO87G6aF2TpkqISf-151" target="BJKhWO87G6aF2TpkqISf-153">
+        <mxCell id="BJKhWO87G6aF2TpkqISf-178" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="BJKhWO87G6aF2TpkqISf-179" target="BJKhWO87G6aF2TpkqISf-181" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BJKhWO87G6aF2TpkqISf-151" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="1190" width="120" height="50" as="geometry" />
+        <mxCell id="BJKhWO87G6aF2TpkqISf-179" value="用户添加禁区" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="200" y="1456" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="BJKhWO87G6aF2TpkqISf-152" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="BJKhWO87G6aF2TpkqISf-153" target="BJKhWO87G6aF2TpkqISf-155">
+        <mxCell id="BJKhWO87G6aF2TpkqISf-180" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="BJKhWO87G6aF2TpkqISf-181" target="BJKhWO87G6aF2TpkqISf-183" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BJKhWO87G6aF2TpkqISf-153" value="获取临时和障碍物地图" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="1190" width="120" height="50" as="geometry" />
+        <mxCell id="BJKhWO87G6aF2TpkqISf-181" value="获取 MapView 宽高" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="1456" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="BJKhWO87G6aF2TpkqISf-154" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="BJKhWO87G6aF2TpkqISf-155" target="BJKhWO87G6aF2TpkqISf-157">
+        <mxCell id="BJKhWO87G6aF2TpkqISf-182" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="BJKhWO87G6aF2TpkqISf-183" target="BJKhWO87G6aF2TpkqISf-185" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BJKhWO87G6aF2TpkqISf-155" value="获取障碍物栅格轮廓" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="1190" width="120" height="50" as="geometry" />
+        <mxCell id="BJKhWO87G6aF2TpkqISf-183" value="计算禁区基于 MapView顶点坐标" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="520" y="1456" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="BJKhWO87G6aF2TpkqISf-156" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="BJKhWO87G6aF2TpkqISf-157" target="BJKhWO87G6aF2TpkqISf-159">
+        <mxCell id="BJKhWO87G6aF2TpkqISf-184" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="BJKhWO87G6aF2TpkqISf-185" target="BJKhWO87G6aF2TpkqISf-187" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BJKhWO87G6aF2TpkqISf-157" value="获取障碍物栅格中点坐标" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="1190" width="120" height="50" as="geometry" />
+        <mxCell id="BJKhWO87G6aF2TpkqISf-185" value="计算原始地图与 MapView 的 Ratio" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="680" y="1456" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="BJKhWO87G6aF2TpkqISf-158" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BJKhWO87G6aF2TpkqISf-159" target="BJKhWO87G6aF2TpkqISf-161">
+        <mxCell id="BJKhWO87G6aF2TpkqISf-186" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="BJKhWO87G6aF2TpkqISf-187" target="BJKhWO87G6aF2TpkqISf-189" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BJKhWO87G6aF2TpkqISf-159" value="获取分区墙体信息，计算障碍物是否超出墙体" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="680" y="1190" width="120" height="50" as="geometry" />
+        <mxCell id="BJKhWO87G6aF2TpkqISf-187" value="计算禁区基于原始地图顶点坐标" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="680" y="1556" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="BJKhWO87G6aF2TpkqISf-160" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BJKhWO87G6aF2TpkqISf-161" target="BJKhWO87G6aF2TpkqISf-163">
+        <mxCell id="BJKhWO87G6aF2TpkqISf-188" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="BJKhWO87G6aF2TpkqISf-189" target="BJKhWO87G6aF2TpkqISf-192" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BJKhWO87G6aF2TpkqISf-161" value="超出墙体4个栅格点，直接忽略" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="680" y="1290" width="120" height="50" as="geometry" />
+        <mxCell id="BJKhWO87G6aF2TpkqISf-189" value="将顶点坐标转换为左下坐标系" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="520" y="1556" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="BJKhWO87G6aF2TpkqISf-162" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BJKhWO87G6aF2TpkqISf-163" target="BJKhWO87G6aF2TpkqISf-167">
+        <mxCell id="BJKhWO87G6aF2TpkqISf-197" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="BJKhWO87G6aF2TpkqISf-190" target="BJKhWO87G6aF2TpkqISf-195" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BJKhWO87G6aF2TpkqISf-163" value="未超出墙体4个栅格点，移动到墙内" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="1290" width="120" height="50" as="geometry" />
+        <mxCell id="BJKhWO87G6aF2TpkqISf-190" value="获取服务端物理&lt;br&gt;坐标" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="1556" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="BJKhWO87G6aF2TpkqISf-165" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="1290" width="120" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="BJKhWO87G6aF2TpkqISf-166" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BJKhWO87G6aF2TpkqISf-167" target="BJKhWO87G6aF2TpkqISf-169">
+        <mxCell id="BJKhWO87G6aF2TpkqISf-191" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="BJKhWO87G6aF2TpkqISf-192" target="BJKhWO87G6aF2TpkqISf-194" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BJKhWO87G6aF2TpkqISf-167" value="计算与 MapView 的 Ratio" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="1290" width="120" height="50" as="geometry" />
+        <mxCell id="BJKhWO87G6aF2TpkqISf-192" value="将顶点坐标转换为物理坐标" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="1556" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="BJKhWO87G6aF2TpkqISf-168" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BJKhWO87G6aF2TpkqISf-169" target="BJKhWO87G6aF2TpkqISf-165">
+        <mxCell id="BJKhWO87G6aF2TpkqISf-193" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="BJKhWO87G6aF2TpkqISf-194" target="BJKhWO87G6aF2TpkqISf-190" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BJKhWO87G6aF2TpkqISf-169" value="计算障碍物在MapView 坐标" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="1290" width="120" height="50" as="geometry" />
+        <mxCell id="BJKhWO87G6aF2TpkqISf-194" value="上传物理坐标" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="200" y="1556" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="BJKhWO87G6aF2TpkqISf-176" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="BJKhWO87G6aF2TpkqISf-177" target="BJKhWO87G6aF2TpkqISf-179">
+        <mxCell id="BJKhWO87G6aF2TpkqISf-198" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="BJKhWO87G6aF2TpkqISf-195" target="BJKhWO87G6aF2TpkqISf-196" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BJKhWO87G6aF2TpkqISf-177" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="1440" width="120" height="50" as="geometry" />
+        <mxCell id="BJKhWO87G6aF2TpkqISf-195" value="获取当前地图基准点栅格坐标" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="1656" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="BJKhWO87G6aF2TpkqISf-178" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="BJKhWO87G6aF2TpkqISf-179" target="BJKhWO87G6aF2TpkqISf-181">
+        <mxCell id="BJKhWO87G6aF2TpkqISf-200" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="BJKhWO87G6aF2TpkqISf-196" target="BJKhWO87G6aF2TpkqISf-199" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BJKhWO87G6aF2TpkqISf-179" value="用户添加禁区" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="1440" width="120" height="50" as="geometry" />
+        <mxCell id="BJKhWO87G6aF2TpkqISf-196" value="根据公式将物理坐标转换为栅格坐标" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="200" y="1656" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="BJKhWO87G6aF2TpkqISf-180" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="BJKhWO87G6aF2TpkqISf-181" target="BJKhWO87G6aF2TpkqISf-183">
+        <mxCell id="BJKhWO87G6aF2TpkqISf-199" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="1656" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="9O4QnmE9b9maw8LPSJhn-2" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#ff0000;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="507.5" as="sourcePoint" />
+            <mxPoint x="340" y="382.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9O4QnmE9b9maw8LPSJhn-3" value="之前步骤为坐标计算，&lt;br&gt;之后步骤为家具展示" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="345" y="390" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9O4QnmE9b9maw8LPSJhn-11" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="20" y="380" width="310" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="9O4QnmE9b9maw8LPSJhn-6" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=none;strokeColor=#ff0000;" vertex="1" parent="9O4QnmE9b9maw8LPSJhn-11">
+          <mxGeometry x="9.393939393939394" width="300.6060606060606" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="9O4QnmE9b9maw8LPSJhn-8" value="新增" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ff0000;" vertex="1" parent="9O4QnmE9b9maw8LPSJhn-11">
+          <mxGeometry width="56.36363636363637" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9O4QnmE9b9maw8LPSJhn-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="9O4QnmE9b9maw8LPSJhn-13" target="9O4QnmE9b9maw8LPSJhn-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BJKhWO87G6aF2TpkqISf-181" value="获取 MapView 宽高" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="1440" width="120" height="50" as="geometry" />
+        <mxCell id="9O4QnmE9b9maw8LPSJhn-13" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="600" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="BJKhWO87G6aF2TpkqISf-182" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="BJKhWO87G6aF2TpkqISf-183" target="BJKhWO87G6aF2TpkqISf-185">
+        <mxCell id="9O4QnmE9b9maw8LPSJhn-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="9O4QnmE9b9maw8LPSJhn-15" target="9O4QnmE9b9maw8LPSJhn-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BJKhWO87G6aF2TpkqISf-183" value="计算禁区基于 MapView顶点坐标" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="1440" width="120" height="50" as="geometry" />
+        <mxCell id="9O4QnmE9b9maw8LPSJhn-15" value="获取分区房间材质" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="600" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="BJKhWO87G6aF2TpkqISf-184" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BJKhWO87G6aF2TpkqISf-185" target="BJKhWO87G6aF2TpkqISf-187">
+        <mxCell id="9O4QnmE9b9maw8LPSJhn-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="9O4QnmE9b9maw8LPSJhn-17" target="9O4QnmE9b9maw8LPSJhn-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BJKhWO87G6aF2TpkqISf-185" value="计算原始地图与 MapView 的 Ratio" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="680" y="1440" width="120" height="50" as="geometry" />
+        <mxCell id="9O4QnmE9b9maw8LPSJhn-17" value="基于分区地图绘制材质信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="600" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="BJKhWO87G6aF2TpkqISf-186" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BJKhWO87G6aF2TpkqISf-187" target="BJKhWO87G6aF2TpkqISf-189">
+        <mxCell id="9O4QnmE9b9maw8LPSJhn-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="9O4QnmE9b9maw8LPSJhn-19" target="9O4QnmE9b9maw8LPSJhn-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BJKhWO87G6aF2TpkqISf-187" value="计算禁区基于原始地图顶点坐标" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="680" y="1540" width="120" height="50" as="geometry" />
+        <mxCell id="9O4QnmE9b9maw8LPSJhn-19" value="获取材质图片栅格中点坐标（和分区中点一致）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="600" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="BJKhWO87G6aF2TpkqISf-188" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BJKhWO87G6aF2TpkqISf-189" target="BJKhWO87G6aF2TpkqISf-192">
+        <mxCell id="9O4QnmE9b9maw8LPSJhn-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="9O4QnmE9b9maw8LPSJhn-21" target="9O4QnmE9b9maw8LPSJhn-31">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="740" y="700" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9O4QnmE9b9maw8LPSJhn-21" value="获取家具栅格尺寸（和分区大小一致）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="600" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="9O4QnmE9b9maw8LPSJhn-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9O4QnmE9b9maw8LPSJhn-31" target="9O4QnmE9b9maw8LPSJhn-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BJKhWO87G6aF2TpkqISf-189" value="将顶点坐标转换为左下坐标系" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="1540" width="120" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="BJKhWO87G6aF2TpkqISf-197" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BJKhWO87G6aF2TpkqISf-190" target="BJKhWO87G6aF2TpkqISf-195">
+        <mxCell id="9O4QnmE9b9maw8LPSJhn-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9O4QnmE9b9maw8LPSJhn-33" target="9O4QnmE9b9maw8LPSJhn-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BJKhWO87G6aF2TpkqISf-190" value="获取服务端物理&lt;br&gt;坐标" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="1540" width="120" height="50" as="geometry" />
+        <mxCell id="9O4QnmE9b9maw8LPSJhn-33" value="计算与 MapView 的 Ratio" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="746" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="BJKhWO87G6aF2TpkqISf-191" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BJKhWO87G6aF2TpkqISf-192" target="BJKhWO87G6aF2TpkqISf-194">
+        <mxCell id="9O4QnmE9b9maw8LPSJhn-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9O4QnmE9b9maw8LPSJhn-35" target="9O4QnmE9b9maw8LPSJhn-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BJKhWO87G6aF2TpkqISf-192" value="将顶点坐标转换为物理坐标" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="1540" width="120" height="50" as="geometry" />
+        <mxCell id="9O4QnmE9b9maw8LPSJhn-35" value="添加/调整所有家具位置和大小" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="746" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="BJKhWO87G6aF2TpkqISf-193" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BJKhWO87G6aF2TpkqISf-194" target="BJKhWO87G6aF2TpkqISf-190">
+        <mxCell id="9O4QnmE9b9maw8LPSJhn-36" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="746" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="9O4QnmE9b9maw8LPSJhn-37" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#ff0000;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="810" y="694" as="sourcePoint" />
+            <mxPoint x="670" y="694.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9O4QnmE9b9maw8LPSJhn-38" value="之前步骤为坐标计算，&lt;br&gt;之后步骤为家具展示" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="600" y="660" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9O4QnmE9b9maw8LPSJhn-39" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="510" y="720" width="310" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="9O4QnmE9b9maw8LPSJhn-41" value="新增" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ff0000;" vertex="1" parent="9O4QnmE9b9maw8LPSJhn-39">
+          <mxGeometry width="56.36363636363637" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="9O4QnmE9b9maw8LPSJhn-40" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=none;strokeColor=#ff0000;" vertex="1" parent="9O4QnmE9b9maw8LPSJhn-39">
+          <mxGeometry x="0.0039393939393903565" width="300.6060606060606" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="9O4QnmE9b9maw8LPSJhn-31" value="将中心坐标和尺寸调整为物理值" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="746" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="9O4QnmE9b9maw8LPSJhn-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9O4QnmE9b9maw8LPSJhn-27" target="9O4QnmE9b9maw8LPSJhn-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BJKhWO87G6aF2TpkqISf-194" value="上传物理坐标" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="1540" width="120" height="50" as="geometry" />
+        <mxCell id="9O4QnmE9b9maw8LPSJhn-27" value="根据融合地图原点物理值坐标，计算材质栅格中点和大小" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="746" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="BJKhWO87G6aF2TpkqISf-198" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="BJKhWO87G6aF2TpkqISf-195" target="BJKhWO87G6aF2TpkqISf-196">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="9O4QnmE9b9maw8LPSJhn-46" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="510" y="1280" width="310" height="104" as="geometry" />
         </mxCell>
-        <mxCell id="BJKhWO87G6aF2TpkqISf-195" value="获取当前地图基准点栅格坐标" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="1640" width="120" height="50" as="geometry" />
+        <mxCell id="9O4QnmE9b9maw8LPSJhn-47" value="新增" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ff0000;" vertex="1" parent="9O4QnmE9b9maw8LPSJhn-46">
+          <mxGeometry width="56.36363636363637" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="BJKhWO87G6aF2TpkqISf-200" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="BJKhWO87G6aF2TpkqISf-196" target="BJKhWO87G6aF2TpkqISf-199">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="9O4QnmE9b9maw8LPSJhn-48" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=none;strokeColor=#ff0000;" vertex="1" parent="9O4QnmE9b9maw8LPSJhn-46">
+          <mxGeometry x="0.0039393939393903565" width="300.6060606060606" height="104" as="geometry" />
         </mxCell>
-        <mxCell id="BJKhWO87G6aF2TpkqISf-196" value="根据公式将物理坐标转换为栅格坐标" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="1640" width="120" height="50" as="geometry" />
+        <mxCell id="9O4QnmE9b9maw8LPSJhn-49" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="345" y="1536" width="160" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="BJKhWO87G6aF2TpkqISf-199" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="1640" width="120" height="50" as="geometry" />
+        <mxCell id="9O4QnmE9b9maw8LPSJhn-50" value="新增" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ff0000;" vertex="1" parent="9O4QnmE9b9maw8LPSJhn-49">
+          <mxGeometry width="29.090909090909093" height="20.76923076923077" as="geometry" />
+        </mxCell>
+        <mxCell id="9O4QnmE9b9maw8LPSJhn-51" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=none;strokeColor=#ff0000;" vertex="1" parent="9O4QnmE9b9maw8LPSJhn-49">
+          <mxGeometry x="0.002033235581620829" width="155.15151515151516" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="9O4QnmE9b9maw8LPSJhn-52" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#ff0000;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180" y="1643.5" as="sourcePoint" />
+            <mxPoint x="180" y="1518.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9O4QnmE9b9maw8LPSJhn-53" value="之前步骤为坐标计算，&lt;br&gt;之后步骤为禁区展示" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="170" y="1520" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9O4QnmE9b9maw8LPSJhn-54" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="180" y="1636" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="9O4QnmE9b9maw8LPSJhn-55" value="新增" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ff0000;" vertex="1" parent="9O4QnmE9b9maw8LPSJhn-54">
+          <mxGeometry width="29.090909090909093" height="20.76923076923077" as="geometry" />
+        </mxCell>
+        <mxCell id="9O4QnmE9b9maw8LPSJhn-56" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=none;strokeColor=#ff0000;" vertex="1" parent="9O4QnmE9b9maw8LPSJhn-54">
+          <mxGeometry x="0.002033235581620829" width="155.15151515151516" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
