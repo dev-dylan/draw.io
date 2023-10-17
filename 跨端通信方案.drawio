@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-17T07:31:42.832Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="xOU1dWSmAmUyv4tcH_5v" version="21.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-17T07:45:52.314Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="zC4tfjlGOM9cEhAo7mMG" version="21.6.9" type="github">
   <diagram name="第 1 页" id="atmkjN36QSVY4-SaSR5G">
     <mxGraphModel dx="1434" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -16,17 +16,17 @@
         <mxCell id="_OYBjkCN1mRbf7RsVP74-20" value="+ field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="_OYBjkCN1mRbf7RsVP74-17">
           <mxGeometry y="78" width="240" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="_OYBjkCN1mRbf7RsVP74-22" value="HBWebView" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="135" y="192.5" width="360" height="108" as="geometry" />
+        <mxCell id="_OYBjkCN1mRbf7RsVP74-22" value="HBWebViewBridge" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="135" y="170" width="360" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="_OYBjkCN1mRbf7RsVP74-23" value="+ delegate: WebViewDelegate" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="_OYBjkCN1mRbf7RsVP74-22">
+        <mxCell id="_OYBjkCN1mRbf7RsVP74-23" value="+ webView: WKWebView" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="_OYBjkCN1mRbf7RsVP74-22">
           <mxGeometry y="26" width="360" height="24" as="geometry" />
         </mxCell>
         <mxCell id="_OYBjkCN1mRbf7RsVP74-24" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="_OYBjkCN1mRbf7RsVP74-22">
           <mxGeometry y="50" width="360" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="_OYBjkCN1mRbf7RsVP74-25" value="+ instance(delegate)&lt;br&gt;+ evaluateJavaScript(message)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="_OYBjkCN1mRbf7RsVP74-22">
-          <mxGeometry y="58" width="360" height="50" as="geometry" />
+        <mxCell id="_OYBjkCN1mRbf7RsVP74-25" value="+ instance(webView)&lt;br&gt;+ evaluateJavaScript(action)&lt;br&gt;+ setDelegate(delegate)&lt;br&gt;+ registerPlugin(plugin, name)&lt;br&gt;+ removePlugin(name)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="_OYBjkCN1mRbf7RsVP74-22">
+          <mxGeometry y="58" width="360" height="92" as="geometry" />
         </mxCell>
         <mxCell id="_OYBjkCN1mRbf7RsVP74-27" value="Use" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" edge="1" parent="1" source="_OYBjkCN1mRbf7RsVP74-22" target="_OYBjkCN1mRbf7RsVP74-49">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -93,7 +93,7 @@
             <mxPoint x="640" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_OYBjkCN1mRbf7RsVP74-49" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;i&gt;&amp;lt;&amp;lt;Interface&amp;gt;&amp;gt;&lt;/i&gt;&lt;br&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;WebViewDelegate&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ field1: Type&lt;br&gt;+ field2: Type&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ postMessage(message)&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="_OYBjkCN1mRbf7RsVP74-49" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;i&gt;&amp;lt;&amp;lt;Interface&amp;gt;&amp;gt;&lt;/i&gt;&lt;br&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;WebViewDelegate&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ field1: Type&lt;br&gt;+ field2: Type&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ postMessage(action)&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="570" y="189.5" width="190" height="111" as="geometry" />
         </mxCell>
       </root>
