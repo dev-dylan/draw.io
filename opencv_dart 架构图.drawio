@@ -1,0 +1,85 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.3">
+  <diagram name="第 1 页" id="EseUnGY-6J-ABf6bvjVW">
+    <mxGraphModel dx="1420" dy="708" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="tuDZl8vK2CCYppVsquxk-22" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="180" y="30" width="560" height="660" as="geometry" />
+        </mxCell>
+        <mxCell id="tuDZl8vK2CCYppVsquxk-14" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="224" y="90" width="476" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="tuDZl8vK2CCYppVsquxk-17" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="240" y="210" width="440" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="tuDZl8vK2CCYppVsquxk-1" value="opencv&amp;nbsp; library （C++）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="224" y="500" width="476" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tuDZl8vK2CCYppVsquxk-2" value="C wrapper" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="224" y="370" width="476" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="tuDZl8vK2CCYppVsquxk-3" value="ffi gen" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="290" y="250" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tuDZl8vK2CCYppVsquxk-4" value="dart header" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="550" y="250" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tuDZl8vK2CCYppVsquxk-5" value="plugin" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="320" y="130" width="350" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tuDZl8vK2CCYppVsquxk-6" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#fa6800;strokeColor=#C73500;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="355" y="360" as="sourcePoint" />
+            <mxPoint x="354.5" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tuDZl8vK2CCYppVsquxk-7" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#fa6800;strokeColor=#C73500;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="279.5" as="sourcePoint" />
+            <mxPoint x="516" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tuDZl8vK2CCYppVsquxk-9" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#fa6800;strokeColor=#C73500;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="605" y="240" as="sourcePoint" />
+            <mxPoint x="604.5" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tuDZl8vK2CCYppVsquxk-8" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#fa6800;strokeColor=#C73500;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="461.5" y="490" as="sourcePoint" />
+            <mxPoint x="461.5" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tuDZl8vK2CCYppVsquxk-12" value="iPackage" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="510" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tuDZl8vK2CCYppVsquxk-13" value="dartcv" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="380" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tuDZl8vK2CCYppVsquxk-16" value="opencv_dart" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="100" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tuDZl8vK2CCYppVsquxk-18" value="package/opencv_core" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="130" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tuDZl8vK2CCYppVsquxk-19" value="package/dartcv" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="210" width="86" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tuDZl8vK2CCYppVsquxk-20" value="opencv source (4.10.0)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="224" y="620" width="476" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="tuDZl8vK2CCYppVsquxk-21" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#fa6800;strokeColor=#C73500;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="461.5" y="610" as="sourcePoint" />
+            <mxPoint x="461.5" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tuDZl8vK2CCYppVsquxk-23" value="opencv_dart 架构图" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="350" y="40" width="220" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

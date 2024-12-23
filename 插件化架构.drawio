@@ -1,0 +1,85 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.3">
+  <diagram name="第 1 页" id="u_sf3B6qTUEGL13QLu5P">
+    <mxGraphModel dx="1420" dy="674" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="WPoNv2pMsjiR4SYaY6MK-40" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="230" y="20" width="700" height="580" as="geometry" />
+        </mxCell>
+        <mxCell id="WPoNv2pMsjiR4SYaY6MK-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="70" width="640" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="WPoNv2pMsjiR4SYaY6MK-31" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="260" y="420" width="640" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="WPoNv2pMsjiR4SYaY6MK-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="290" y="120" width="130" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="WPoNv2pMsjiR4SYaY6MK-8" value="FlutterEngine" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="295" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WPoNv2pMsjiR4SYaY6MK-10" value="Modules" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="295" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WPoNv2pMsjiR4SYaY6MK-28" value="Flutter 插件" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="130" width="92" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WPoNv2pMsjiR4SYaY6MK-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="440" y="120" width="136" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="WPoNv2pMsjiR4SYaY6MK-6" value="CustomWebView" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="448" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WPoNv2pMsjiR4SYaY6MK-7" value="JSBridge" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="448" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WPoNv2pMsjiR4SYaY6MK-9" value="OpenCV" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="448" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WPoNv2pMsjiR4SYaY6MK-27" value="Hybrid 插件" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="130" width="92" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WPoNv2pMsjiR4SYaY6MK-4" value="&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
+          <mxGeometry x="600" y="120" width="136" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="WPoNv2pMsjiR4SYaY6MK-12" value="XRTC SDK" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="608" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WPoNv2pMsjiR4SYaY6MK-16" value="音视频插件" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="590" y="130" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WPoNv2pMsjiR4SYaY6MK-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="750" y="120" width="136" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="WPoNv2pMsjiR4SYaY6MK-13" value="AIKit SDK" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="758" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WPoNv2pMsjiR4SYaY6MK-25" value="语音插件" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="758" y="120" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WPoNv2pMsjiR4SYaY6MK-32" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;插件层&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="80" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WPoNv2pMsjiR4SYaY6MK-36" value="登录注册" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="290" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WPoNv2pMsjiR4SYaY6MK-37" value="数据共享（用户）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="440" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WPoNv2pMsjiR4SYaY6MK-39" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;原生层&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="430" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WPoNv2pMsjiR4SYaY6MK-41" value="壳工程" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="240" y="30" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WPoNv2pMsjiR4SYaY6MK-42" value="插件入口" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="590" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WPoNv2pMsjiR4SYaY6MK-44" value="OpenCV" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="294" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
