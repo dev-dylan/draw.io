@@ -1,9 +1,411 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.2.10">
   <diagram name="第 1 页" id="M6doQZHcpyaME7cAjMAj">
-    <mxGraphModel>
+    <mxGraphModel dx="1097" dy="521" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="9II1tSwC5ECcXl-dkOla-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="340" width="360" x="279" y="2625" as="geometry" />
+        </mxCell>
+        <mxCell id="9II1tSwC5ECcXl-dkOla-2" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="App" vertex="1">
+          <mxGeometry height="3110" width="100" x="300" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9II1tSwC5ECcXl-dkOla-3" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="手表" vertex="1">
+          <mxGeometry height="3110" width="145" x="80" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9II1tSwC5ECcXl-dkOla-4" parent="9II1tSwC5ECcXl-dkOla-3" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
+          <mxGeometry height="40" width="10" x="68" y="1350" as="geometry" />
+        </mxCell>
+        <mxCell id="9II1tSwC5ECcXl-dkOla-5" parent="9II1tSwC5ECcXl-dkOla-3" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
+          <mxGeometry height="40" width="10" x="68" y="1540" as="geometry" />
+        </mxCell>
+        <mxCell id="9II1tSwC5ECcXl-dkOla-6" parent="9II1tSwC5ECcXl-dkOla-3" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
+          <mxGeometry height="50" width="10" x="68" y="1905" as="geometry" />
+        </mxCell>
+        <mxCell id="9II1tSwC5ECcXl-dkOla-7" parent="9II1tSwC5ECcXl-dkOla-3" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
+          <mxGeometry height="50" width="10" x="67.5" y="1620" as="geometry" />
+        </mxCell>
+        <mxCell id="9II1tSwC5ECcXl-dkOla-8" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="云端" vertex="1">
+          <mxGeometry height="3110" width="100" x="520" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9II1tSwC5ECcXl-dkOla-9" parent="9II1tSwC5ECcXl-dkOla-8" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="" vertex="1">
+          <mxGeometry height="50" width="10" x="45" y="2670" as="geometry" />
+        </mxCell>
+        <mxCell id="9II1tSwC5ECcXl-dkOla-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&amp;nbsp;离线录音，A&amp;amp; B" vertex="1">
+          <mxGeometry height="30" width="60" x="163" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="9II1tSwC5ECcXl-dkOla-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="向手表要列表" vertex="1">
+          <mxGeometry height="30" width="96" x="364" y="172" as="geometry" />
+        </mxCell>
+        <mxCell id="9II1tSwC5ECcXl-dkOla-12" edge="1" parent="1" source="9II1tSwC5ECcXl-dkOla-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" target="9II1tSwC5ECcXl-dkOla-29" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9II1tSwC5ECcXl-dkOla-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="发送全量列表" vertex="1">
+          <mxGeometry height="30" width="60" x="80" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="9II1tSwC5ECcXl-dkOla-14" edge="1" parent="1" source="9II1tSwC5ECcXl-dkOla-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" target="9II1tSwC5ECcXl-dkOla-35" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9II1tSwC5ECcXl-dkOla-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="收到手表全量列表" vertex="1">
+          <mxGeometry height="30" width="96" x="364" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="9II1tSwC5ECcXl-dkOla-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="遍历列表" vertex="1">
+          <mxGeometry height="30" width="60" x="364" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="9II1tSwC5ECcXl-dkOla-17" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.4_point_star_2;dx=0.8;fillColor=#fa6800;strokeColor=#C73500;fontColor=#000000;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="" vertex="1">
+          <mxGeometry height="20" width="20" x="433" y="622" as="geometry" />
+        </mxCell>
+        <mxCell id="9II1tSwC5ECcXl-dkOla-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="遍历结束" vertex="1">
+          <mxGeometry height="30" width="70" x="370" y="840" as="geometry" />
+        </mxCell>
+        <mxCell id="9II1tSwC5ECcXl-dkOla-19" edge="1" parent="1" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;" target="9II1tSwC5ECcXl-dkOla-2" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="470" y="415" />
+              <mxPoint x="470" y="870" />
+            </Array>
+            <mxPoint x="350" y="415" as="sourcePoint" />
+            <mxPoint x="370" y="870" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9II1tSwC5ECcXl-dkOla-20" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="通知表端已下载过列表" vertex="1">
+          <mxGeometry height="30" width="70" x="364" y="930" as="geometry" />
+        </mxCell>
+        <mxCell id="9II1tSwC5ECcXl-dkOla-21" edge="1" parent="1" source="9II1tSwC5ECcXl-dkOla-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" target="9II1tSwC5ECcXl-dkOla-31" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9II1tSwC5ECcXl-dkOla-22" edge="1" parent="1" source="9II1tSwC5ECcXl-dkOla-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" target="9II1tSwC5ECcXl-dkOla-32" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9II1tSwC5ECcXl-dkOla-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="发送文件头" vertex="1">
+          <mxGeometry height="30" width="80" x="160" y="1097" as="geometry" />
+        </mxCell>
+        <mxCell id="9II1tSwC5ECcXl-dkOla-24" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="收到随心记 ID" vertex="1">
+          <mxGeometry height="30" width="80" x="163" y="760" as="geometry" />
+        </mxCell>
+        <mxCell id="9II1tSwC5ECcXl-dkOla-25" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="159" y="1128" as="sourcePoint" />
+            <mxPoint x="348.5" y="1128" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9II1tSwC5ECcXl-dkOla-26" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="收到 ID、Size、type 等" vertex="1">
+          <mxGeometry height="30" width="96" x="364" y="1107" as="geometry" />
+        </mxCell>
+        <mxCell id="9II1tSwC5ECcXl-dkOla-27" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;dashPattern=8 8;strokeWidth=2;rounded=0;strokeColor=#EA6B66;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="20" y="1087" as="sourcePoint" />
+            <mxPoint x="670" y="1087" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9II1tSwC5ECcXl-dkOla-28" parent="1" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
+          <mxGeometry height="50" width="10" x="148" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="9II1tSwC5ECcXl-dkOla-29" parent="1" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
+          <mxGeometry height="50" width="10" x="148" y="162" as="geometry" />
+        </mxCell>
+        <mxCell id="9II1tSwC5ECcXl-dkOla-30" parent="1" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
+          <mxGeometry height="50" width="10" x="148" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="9II1tSwC5ECcXl-dkOla-31" parent="1" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
+          <mxGeometry height="50" width="10" x="148" y="920" as="geometry" />
+        </mxCell>
+        <mxCell id="9II1tSwC5ECcXl-dkOla-32" parent="1" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
+          <mxGeometry height="40" width="10" x="147.5" y="770" as="geometry" />
+        </mxCell>
+        <mxCell id="9II1tSwC5ECcXl-dkOla-33" parent="1" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
+          <mxGeometry height="40" width="10" x="147.5" y="1108" as="geometry" />
+        </mxCell>
+        <mxCell id="9II1tSwC5ECcXl-dkOla-34" parent="1" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
+          <mxGeometry height="50" width="10" x="345" y="162" as="geometry" />
+        </mxCell>
+        <mxCell id="9II1tSwC5ECcXl-dkOla-35" parent="1" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
+          <mxGeometry height="50" width="10" x="345" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="9II1tSwC5ECcXl-dkOla-36" parent="1" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
+          <mxGeometry height="40" width="10" x="345" y="504" as="geometry" />
+        </mxCell>
+        <mxCell id="9II1tSwC5ECcXl-dkOla-37" parent="1" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
+          <mxGeometry height="50" width="10" x="345" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="9II1tSwC5ECcXl-dkOla-38" parent="1" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
+          <mxGeometry height="40" width="10" x="345" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="9II1tSwC5ECcXl-dkOla-39" parent="1" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
+          <mxGeometry height="40" width="10" x="345" y="690" as="geometry" />
+        </mxCell>
+        <mxCell id="9II1tSwC5ECcXl-dkOla-40" parent="1" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
+          <mxGeometry height="40" width="10" x="345" y="770" as="geometry" />
+        </mxCell>
+        <mxCell id="9II1tSwC5ECcXl-dkOla-41" parent="1" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
+          <mxGeometry height="50" width="10" x="345" y="840" as="geometry" />
+        </mxCell>
+        <mxCell id="9II1tSwC5ECcXl-dkOla-42" parent="1" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
+          <mxGeometry height="50" width="10" x="345" y="920" as="geometry" />
+        </mxCell>
+        <mxCell id="9II1tSwC5ECcXl-dkOla-43" parent="1" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
+          <mxGeometry height="40" width="10" x="345" y="1107" as="geometry" />
+        </mxCell>
+        <mxCell id="9II1tSwC5ECcXl-dkOla-44" parent="1" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
+          <mxGeometry height="40" width="10" x="345" y="1195" as="geometry" />
+        </mxCell>
+        <mxCell id="9II1tSwC5ECcXl-dkOla-45" parent="1" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
+          <mxGeometry height="40" width="10" x="345" y="1287" as="geometry" />
+        </mxCell>
+        <mxCell id="9II1tSwC5ECcXl-dkOla-46" parent="1" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
+          <mxGeometry height="40" width="10" x="345" y="1010" as="geometry" />
+        </mxCell>
+        <mxCell id="9II1tSwC5ECcXl-dkOla-47" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="158" y="1390" as="sourcePoint" />
+            <mxPoint x="347.5" y="1390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9II1tSwC5ECcXl-dkOla-48" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="发送文件体" vertex="1">
+          <mxGeometry height="30" width="80" x="157.5" y="1360" as="geometry" />
+        </mxCell>
+        <mxCell id="9II1tSwC5ECcXl-dkOla-49" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="收到文件内容" vertex="1">
+          <mxGeometry height="30" width="96" x="352" y="1373" as="geometry" />
+        </mxCell>
+        <mxCell id="9II1tSwC5ECcXl-dkOla-50" parent="1" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
+          <mxGeometry height="40" width="10" x="345" y="1370" as="geometry" />
+        </mxCell>
+        <mxCell id="9II1tSwC5ECcXl-dkOla-51" parent="1" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
+          <mxGeometry height="40" width="10" x="345" y="1466" as="geometry" />
+        </mxCell>
+        <mxCell id="9II1tSwC5ECcXl-dkOla-52" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="发送文件尾" vertex="1">
+          <mxGeometry height="30" width="80" x="160" y="1550" as="geometry" />
+        </mxCell>
+        <mxCell id="9II1tSwC5ECcXl-dkOla-53" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="155.5" y="1580" as="sourcePoint" />
+            <mxPoint x="345" y="1580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9II1tSwC5ECcXl-dkOla-54" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="收到文件尾信息" vertex="1">
+          <mxGeometry height="30" width="96" x="357" y="1560" as="geometry" />
+        </mxCell>
+        <mxCell id="9II1tSwC5ECcXl-dkOla-55" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.4_point_star_2;dx=0.8;fillColor=#fa6800;strokeColor=#C73500;fontColor=#000000;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="" vertex="1">
+          <mxGeometry height="20" width="20" x="449" y="1640" as="geometry" />
+        </mxCell>
+        <mxCell id="9II1tSwC5ECcXl-dkOla-56" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 11px; text-align: left; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;更新数据库中&lt;/span&gt;&lt;br style=&quot;font-size: 11px; text-align: left; text-wrap-mode: nowrap;&quot;&gt;&lt;span style=&quot;font-size: 11px; text-align: left; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;表端数据标志位&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="375" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="9II1tSwC5ECcXl-dkOla-57" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 11px; text-align: left; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;检查数据库中&lt;/span&gt;&lt;br style=&quot;font-size: 11px; text-align: left; text-wrap-mode: nowrap;&quot;&gt;&lt;span style=&quot;font-size: 11px; text-align: left; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;是否存在&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="364" y="509" as="geometry" />
+        </mxCell>
+        <mxCell id="9II1tSwC5ECcXl-dkOla-58" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;text-wrap-mode: nowrap; font-size: 11px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;检查当前是否&lt;/span&gt;&lt;br style=&quot;text-wrap-mode: nowrap; font-size: 11px; text-align: left;&quot;&gt;&lt;span style=&quot;text-wrap-mode: nowrap; font-size: 11px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;正在传输随心记&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="370" y="575" as="geometry" />
+        </mxCell>
+        <mxCell id="9II1tSwC5ECcXl-dkOla-59" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 11px; text-align: left; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;检查当前随心记是否&lt;/span&gt;&lt;div style=&quot;font-size: 11px; text-align: left; text-wrap-mode: nowrap;&quot;&gt;已经在&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;待传列表&lt;/font&gt;中&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="108" x="360" y="690" as="geometry" />
+        </mxCell>
+        <mxCell id="9II1tSwC5ECcXl-dkOla-60" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="不在传输清空&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;待传列表&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="80" x="359" y="635" as="geometry" />
+        </mxCell>
+        <mxCell id="9II1tSwC5ECcXl-dkOla-61" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 11px; text-align: left; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;向表端请求文件&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="373" y="770" as="geometry" />
+        </mxCell>
+        <mxCell id="9II1tSwC5ECcXl-dkOla-62" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 11px; text-align: left; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;添加到随心记列表&lt;/span&gt;&lt;div style=&quot;font-size: 11px; text-align: left; text-wrap-mode: nowrap;&quot;&gt;展示&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="379" y="1010" as="geometry" />
+        </mxCell>
+        <mxCell id="9II1tSwC5ECcXl-dkOla-63" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div style=&quot;font-size: 11px; text-align: left; text-wrap-mode: nowrap;&quot;&gt;检查文件是否已下载过，&lt;/div&gt;&lt;div style=&quot;font-size: 11px; text-align: left; text-wrap-mode: nowrap;&quot;&gt;并在内存中记录状态&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="400" y="1200" as="geometry" />
+        </mxCell>
+        <mxCell id="9II1tSwC5ECcXl-dkOla-64" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;更新随心记列表状态&lt;/span&gt;&lt;br style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;为手表上传中，&lt;/span&gt;&lt;div style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;其他修改为等待上传中&lt;/div&gt;" vertex="1">
+          <mxGeometry height="53" width="150" x="364" y="1287" as="geometry" />
+        </mxCell>
+        <mxCell id="9II1tSwC5ECcXl-dkOla-65" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;检查文件是否下载过&lt;/span&gt;&lt;div style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;已下载过，不再操作本地文件&lt;/div&gt;" vertex="1">
+          <mxGeometry height="44" width="180" x="364" y="1466" as="geometry" />
+        </mxCell>
+        <mxCell id="9II1tSwC5ECcXl-dkOla-66" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;检查文件是否下载过&lt;/span&gt;&lt;div style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;已下载过，直接跳过&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="130" x="359" y="1659" as="geometry" />
+        </mxCell>
+        <mxCell id="9II1tSwC5ECcXl-dkOla-67" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;font data-mx-given-colors=&quot;{&amp;quot;color&amp;quot;:&amp;quot;rgb(255, 0, 0)&amp;quot;}&quot; style=&quot;forced-color-adjust: none; font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; color: light-dark(rgb(255, 0, 0), rgb(255, 144, 144));&quot;&gt;检查文件完整性&lt;/font&gt;&lt;div style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;文件实际大小在&lt;/div&gt;&lt;div style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;阈值范围内有效，&lt;/div&gt;&lt;div style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;无效时删除文件&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="364" y="1740" as="geometry" />
+        </mxCell>
+        <mxCell id="9II1tSwC5ECcXl-dkOla-68" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="检查文件是&lt;div&gt;否存在&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="90" x="351" y="1845" as="geometry" />
+        </mxCell>
+        <mxCell id="9II1tSwC5ECcXl-dkOla-69" edge="1" parent="1" style="endArrow=block;endFill=1;html=1;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=top;rounded=0;" target="9II1tSwC5ECcXl-dkOla-6" value="">
+          <mxGeometry relative="1" x="-1" as="geometry">
+            <mxPoint x="340" y="1950" as="sourcePoint" />
+            <mxPoint x="180" y="1950" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9II1tSwC5ECcXl-dkOla-70" parent="1" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
+          <mxGeometry height="50" width="10" x="20" y="1860" as="geometry" />
+        </mxCell>
+        <mxCell id="9II1tSwC5ECcXl-dkOla-71" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="不存在表示不完整，重新向手表请求" vertex="1">
+          <mxGeometry height="30" width="120" x="350" y="1930" as="geometry" />
+        </mxCell>
+        <mxCell id="9II1tSwC5ECcXl-dkOla-72" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="收到文件发送请求，放入队列" vertex="1">
+          <mxGeometry height="30" width="100" x="157.5" y="1910" as="geometry" />
+        </mxCell>
+        <mxCell id="9II1tSwC5ECcXl-dkOla-73" edge="1" parent="1" source="9II1tSwC5ECcXl-dkOla-7" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=0;entryY=0;entryDx=0;entryDy=5;entryPerimeter=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="70" y="1660" />
+              <mxPoint x="70" y="1128" />
+            </Array>
+            <mxPoint x="130" y="1700" as="sourcePoint" />
+            <mxPoint x="147.5" y="1128" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9II1tSwC5ECcXl-dkOla-74" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="串行发送下一个" vertex="1">
+          <mxGeometry height="30" width="60" x="68" y="1630" as="geometry" />
+        </mxCell>
+        <mxCell id="9II1tSwC5ECcXl-dkOla-75" edge="1" parent="1" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=0;entryY=0;entryDx=0;entryDy=5;entryPerimeter=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="148" y="1950" />
+              <mxPoint x="70" y="1950" />
+              <mxPoint x="70" y="1670" />
+            </Array>
+            <mxPoint x="148" y="1950" as="sourcePoint" />
+            <mxPoint x="147.5" y="1670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9II1tSwC5ECcXl-dkOla-76" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="修改状态为降噪中" vertex="1">
+          <mxGeometry height="30" width="60" x="359" y="2010" as="geometry" />
+        </mxCell>
+        <mxCell id="9II1tSwC5ECcXl-dkOla-77" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="转换为标准 opus" vertex="1">
+          <mxGeometry height="30" width="60" x="357" y="2094" as="geometry" />
+        </mxCell>
+        <mxCell id="9II1tSwC5ECcXl-dkOla-78" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="转换为 mp3" vertex="1">
+          <mxGeometry height="30" width="60" x="355" y="2170" as="geometry" />
+        </mxCell>
+        <mxCell id="9II1tSwC5ECcXl-dkOla-79" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.4_point_star_2;dx=0.8;fillColor=#fa6800;strokeColor=#C73500;fontColor=#000000;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="" vertex="1">
+          <mxGeometry height="20" width="20" x="407" y="2164" as="geometry" />
+        </mxCell>
+        <mxCell id="9II1tSwC5ECcXl-dkOla-80" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="修改状态为暂未转写" vertex="1">
+          <mxGeometry height="30" width="90" x="360" y="2250" as="geometry" />
+        </mxCell>
+        <mxCell id="9II1tSwC5ECcXl-dkOla-81" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="数据入库&lt;div&gt;从&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;待传列表&lt;/font&gt;中移除&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="96" x="361" y="2330" as="geometry" />
+        </mxCell>
+        <mxCell id="9II1tSwC5ECcXl-dkOla-82" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="再次向表端要列表" vertex="1">
+          <mxGeometry height="30" width="60" x="359" y="2420" as="geometry" />
+        </mxCell>
+        <mxCell id="9II1tSwC5ECcXl-dkOla-83" edge="1" parent="1" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;" target="9II1tSwC5ECcXl-dkOla-2" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="520" y="2460" />
+              <mxPoint x="520" y="170" />
+            </Array>
+            <mxPoint x="359" y="2460" as="sourcePoint" />
+            <mxPoint x="409" y="2410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9II1tSwC5ECcXl-dkOla-84" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.4_point_star_2;dx=0.8;fillColor=#fa6800;strokeColor=#C73500;fontColor=#000000;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="" vertex="1">
+          <mxGeometry height="20" width="20" x="409" y="2405" as="geometry" />
+        </mxCell>
+        <mxCell id="9II1tSwC5ECcXl-dkOla-85" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" value="">
+          <mxGeometry relative="1" width="80" x="0.0039" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="357" y="2720" as="sourcePoint" />
+            <mxPoint x="569.5" y="2720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9II1tSwC5ECcXl-dkOla-86" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="上传云端" vertex="1">
+          <mxGeometry height="30" width="120" x="360" y="2680" as="geometry" />
+        </mxCell>
+        <mxCell id="9II1tSwC5ECcXl-dkOla-87" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="上传oss" vertex="1">
+          <mxGeometry height="30" width="120" x="357" y="2780" as="geometry" />
+        </mxCell>
+        <mxCell id="9II1tSwC5ECcXl-dkOla-88" edge="1" parent="1" source="9II1tSwC5ECcXl-dkOla-105" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" value="">
+          <mxGeometry relative="1" width="80" x="0.0039" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="355" y="2820" as="sourcePoint" />
+            <mxPoint x="568" y="2820" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9II1tSwC5ECcXl-dkOla-89" parent="1" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
+          <mxGeometry height="40" width="10" x="345" y="1560" as="geometry" />
+        </mxCell>
+        <mxCell id="9II1tSwC5ECcXl-dkOla-90" parent="1" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
+          <mxGeometry height="40" width="10" x="345" y="1660" as="geometry" />
+        </mxCell>
+        <mxCell id="9II1tSwC5ECcXl-dkOla-91" parent="1" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
+          <mxGeometry height="40" width="10" x="347" y="1750" as="geometry" />
+        </mxCell>
+        <mxCell id="9II1tSwC5ECcXl-dkOla-92" parent="1" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
+          <mxGeometry height="50" width="10" x="347" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="9II1tSwC5ECcXl-dkOla-93" parent="1" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
+          <mxGeometry height="40" width="10" x="345" y="630" as="geometry" />
+        </mxCell>
+        <mxCell id="9II1tSwC5ECcXl-dkOla-94" parent="1" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
+          <mxGeometry height="50" width="10" x="345" y="1840" as="geometry" />
+        </mxCell>
+        <mxCell id="9II1tSwC5ECcXl-dkOla-95" parent="1" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
+          <mxGeometry height="50" width="10" x="345" y="1920" as="geometry" />
+        </mxCell>
+        <mxCell id="9II1tSwC5ECcXl-dkOla-96" parent="1" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
+          <mxGeometry height="50" width="10" x="345" y="2000" as="geometry" />
+        </mxCell>
+        <mxCell id="9II1tSwC5ECcXl-dkOla-97" parent="1" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
+          <mxGeometry height="50" width="10" x="345" y="2080" as="geometry" />
+        </mxCell>
+        <mxCell id="9II1tSwC5ECcXl-dkOla-98" parent="1" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
+          <mxGeometry height="50" width="10" x="345" y="2160" as="geometry" />
+        </mxCell>
+        <mxCell id="9II1tSwC5ECcXl-dkOla-99" parent="1" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
+          <mxGeometry height="50" width="10" x="345" y="2240" as="geometry" />
+        </mxCell>
+        <mxCell id="9II1tSwC5ECcXl-dkOla-100" parent="1" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
+          <mxGeometry height="50" width="10" x="345" y="2320" as="geometry" />
+        </mxCell>
+        <mxCell id="9II1tSwC5ECcXl-dkOla-101" parent="1" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
+          <mxGeometry height="50" width="10" x="345" y="2428" as="geometry" />
+        </mxCell>
+        <mxCell id="9II1tSwC5ECcXl-dkOla-102" parent="1" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
+          <mxGeometry height="50" width="10" x="345" y="2690" as="geometry" />
+        </mxCell>
+        <mxCell id="9II1tSwC5ECcXl-dkOla-103" parent="1" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
+          <mxGeometry height="50" width="10" x="347" y="2790" as="geometry" />
+        </mxCell>
+        <mxCell id="9II1tSwC5ECcXl-dkOla-104" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" target="9II1tSwC5ECcXl-dkOla-105" value="">
+          <mxGeometry relative="1" width="80" x="0.0039" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="355" y="2820" as="sourcePoint" />
+            <mxPoint x="568" y="2820" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9II1tSwC5ECcXl-dkOla-105" parent="1" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="" vertex="1">
+          <mxGeometry height="50" width="10" x="565" y="2790" as="geometry" />
+        </mxCell>
+        <mxCell id="9II1tSwC5ECcXl-dkOla-106" parent="1" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
+          <mxGeometry height="40" width="10" x="347" y="2570" as="geometry" />
+        </mxCell>
+        <mxCell id="9II1tSwC5ECcXl-dkOla-107" edge="1" parent="1" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" target="9II1tSwC5ECcXl-dkOla-106" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;刷新随心记列表&lt;/font&gt;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="382" y="2580" />
+            </Array>
+            <mxPoint x="352" y="2550" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9II1tSwC5ECcXl-dkOla-108" parent="1" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
+          <mxGeometry height="40" width="10" x="345" y="2910" as="geometry" />
+        </mxCell>
+        <mxCell id="9II1tSwC5ECcXl-dkOla-109" edge="1" parent="1" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" target="9II1tSwC5ECcXl-dkOla-108" value="刷新随心记列表">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="380" y="2920" />
+            </Array>
+            <mxPoint x="350" y="2890" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9II1tSwC5ECcXl-dkOla-110" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="开启云同步时" vertex="1">
+          <mxGeometry height="30" width="110" x="279" y="2630" as="geometry" />
+        </mxCell>
+        <mxCell id="9II1tSwC5ECcXl-dkOla-111" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.4_point_star_2;dx=0.8;fillColor=#fa6800;strokeColor=#C73500;fontColor=#000000;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="" vertex="1">
+          <mxGeometry height="40" width="40" x="439" y="1900" as="geometry" />
+        </mxCell>
+        <mxCell id="9II1tSwC5ECcXl-dkOla-112" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.4_point_star_2;dx=0.8;fillColor=#fa6800;strokeColor=#C73500;fontColor=#000000;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="" vertex="1">
+          <mxGeometry height="40" width="40" x="434" y="1722" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
